@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
+import Footer from "./Footer";
 
 function App() {
   const [poem, setPoem] = useState({});
@@ -28,8 +29,9 @@ function App() {
         {poem.lines ? poem.lines.map((line) => <li>{line}</li>) : ""}
       </div>
       <button class="button" onClick={getRandomPoem}>
-        next
+        new poem
       </button>
+      <Footer />
     </div>
   );
 }
