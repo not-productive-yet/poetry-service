@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/not-productive-yet-website/static/css/main.177ca584.css",
+    "main.js": "/not-productive-yet-website/static/js/main.e9994fd8.js",
+    "index.html": "/not-productive-yet-website/index.html",
+    "main.177ca584.css.map": "/not-productive-yet-website/static/css/main.177ca584.css.map",
+    "main.e9994fd8.js.map": "/not-productive-yet-website/static/js/main.e9994fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177ca584.css",
+    "static/js/main.e9994fd8.js"
+  ]
+}
