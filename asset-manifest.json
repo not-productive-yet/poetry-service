@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-ap/static/css/main.7883aa57.css",
-    "main.js": "/my-ap/static/js/main.58f51ace.js",
-    "index.html": "/my-ap/index.html",
-    "main.7883aa57.css.map": "/my-ap/static/css/main.7883aa57.css.map",
-    "main.58f51ace.js.map": "/my-ap/static/js/main.58f51ace.js.map"
+    "main.css": "/poetry-service/static/css/main.7883aa57.css",
+    "main.js": "/poetry-service/static/js/main.58f51ace.js",
+    "index.html": "/poetry-service/index.html",
+    "main.7883aa57.css.map": "/poetry-service/static/css/main.7883aa57.css.map",
+    "main.58f51ace.js.map": "/poetry-service/static/js/main.58f51ace.js.map"
   },
   "entrypoints": [
     "static/css/main.7883aa57.css",
