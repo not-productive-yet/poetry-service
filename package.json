@@ -2,7 +2,7 @@
   "name": "my-ap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://not-productive-yet.github.io/my-ap",
+  "homepage": "https://not-productive-yet.github.io/poetry-service",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
